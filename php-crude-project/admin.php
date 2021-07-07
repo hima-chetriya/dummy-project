@@ -3,7 +3,7 @@
 <style>
 body
 {
-background-color:skyblue;
+background-color:blue;
 }
 .heading
 {
